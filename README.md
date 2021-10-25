@@ -7,3 +7,5 @@
 3. Follow an interesting tutorial and start to execute some stuff on a target. See what we get back.
 4. See if you can take the output of the first exercise, run it through another osint resource, and get more back.
 5. Rinse and repeat
+
+Note: Above is a WiP
